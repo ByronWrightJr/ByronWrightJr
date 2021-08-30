@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ByronWrightJr
-- 👀 I’m interested in learning about software development and other technical skills.
+- 👀 I’m interested in learning more about software engineering
 - 🌱 I’m currently learning how to become a front end software developer/engineer
-- 💞️ I’m looking to collaborate on making apps and websites that make life easier for others.
+-🧠 I’m looking to collaborate on making apps and websites that make life easier for others.
 - 📫 You can reach me at byronwrightjr@gmail.com
 
 <!---
