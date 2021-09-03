@@ -17,7 +17,7 @@ I am a self-taught web developer. I am compitent in HTML and CSS as of right now
 * Improving my own thinking
 * Helping and understanding others, especially those who are disadvantaged
 
-#### Random fact about me:
+### Random fact about me:
 I have never been outside the state of Texas but I am wanting to as soon as possible. 
 
 ![Spiderman Jumping off building](https://media1.giphy.com/media/l46C5YyhNUlhFLlio/giphy.gif?cid=790b7611df538b7cde8e1da81dbf01e0500ed0304bd8c917&rid=giphy.gif&ct=g) 
