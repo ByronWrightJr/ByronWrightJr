@@ -13,8 +13,9 @@ I am a self-taught web developer. I am compitent in HTML and CSS as of right now
 ### Likes/Interests/Hobbies:
 * Video Games
 * New Technology
+* Comics (Marvel and DC)
 * Improving my own thinking
-* Helping and understanding others
+* Helping and understanding others, especially those who are disadvantaged
 
 #### Random fact about me:
 I have never been outside the state of Texas but I am wanting to as soon as possible. 
