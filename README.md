@@ -1,6 +1,6 @@
 ## Hey there, I am Byron Wright Jr. 👋🏽
 
-I am working on becoming a self-taught software engineer. I have so far learned some  HTML and CSS from freecodecamp.com. I am currently going through the free online CS50 course with Harvard. I will update this as I learn.
+I am working on becoming a self-taught software engineer. I have so far learned some  HTML and CSS from freecodecamp.com. I am currently going through the free online CS50 course with Harvard.
 
 ### You can find me at these places:
 * [Twitter](https://www.twitter.com/byronwrightjr) 🐦
