@@ -2,20 +2,16 @@
 
 I am working on becoming a self-taught software engineer. I have so far learned some  HTML and CSS from freecodecamp.com. I am currently going through the free online CS50 course with Harvard.
 
-### You can find me at these places:
-* [Twitter](https://www.twitter.com/byronwrightjr) 🐦
-* [Instagram](https://www.instagram.com/byroncwrightjr) 📸
-* [LinkedIn](https://www.linkedin.com/in/byronwrightjr) 🔗
+### You can find me here:
 * [YouTube](https://www.youtube.com/channel/UCH_dEUH3rm29_7laJAGRS6w) 🎥
 * [My Personal Website](https://byronwrightjr.com) 🕸
-* [Medium Blog](https://byronwrightjr.medium.com) 📝
 
 ### Likes/Interests/Hobbies:
 * Video Games
 * Anything having to do with technology
 * Comics (Marvel and DC)
 * Improving my own thoughts and ideas
-* Helping and understanding others, especially those who may be overlooked by society for whatever reason
+* Helping and understanding others, especially those who might be overlooked by society for whatever reason
 
 ### Random fact about me:
 I have never traveled outside the state of Texas
