@@ -3,8 +3,8 @@
 I am working on becoming a self-taught software engineer. I have so far learned some  HTML and CSS from freecodecamp.com. I am currently going through the free online CS50 course with Harvard.
 
 ### You can find me here:
-* [YouTube](https://www.youtube.com/channel/UCH_dEUH3rm29_7laJAGRS6w) 🎥
 * [My Personal Website](https://byronwrightjr.com) 🕸
+* [YouTube](https://www.youtube.com/channel/UCH_dEUH3rm29_7laJAGRS6w) 🎥
 
 ### Likes/Interests/Hobbies:
 * Video Games
