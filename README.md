@@ -1,4 +1,4 @@
-## Hey there, I am Byron, 👋🏽
+## Hey there, my name is Byron. 👋🏽
 
 I am working on becoming a software engineer. I have so far learned some HTML and CSS from freecodecamp.com. I am currently going through the free online CS50 course with Harvard University. I am happy to be here.
 
