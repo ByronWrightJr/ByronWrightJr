@@ -14,7 +14,7 @@ I am working on becoming a emergengy room physician b ut I love to build things 
 * Video Games
 * Anything having to do with technology
 * Science (Any science really, inculding medical and astronomy)
-* Comics (Marvel and DC)
+* Comics (Marvel,DC and Manga)
 * Improving my own thoughts and ideas
 * Helping and understanding others, especially those who might be overlooked by society for whatever reason
 
