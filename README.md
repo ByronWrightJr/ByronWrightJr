@@ -7,11 +7,13 @@ I am working on becoming a emergengy room physician b ut I love to build things 
 * [YouTube](https://www.youtube.com/channel/UCH_dEUH3rm29_7laJAGRS6w) 🎥
 * [Blog](https://medium.com/@byronwrightjr) 📝
 * [Podcast](https://open.spotify.com/show/0hVsGy9BZVMe8vGY0jqG4g?si=da48e152627f47ae) 🎤
+* [Twitter](https://twitter.com/byronwrightjr) 🐦
+* [Instagram](https://instagram.com/byroncwrightjr) 📸
 
 ### Likes/Interests/Hobbies:
 * Video Games
 * Anything having to do with technology
-* Science (Any science really)
+* Science (Any science really, inculding medical and astronomy)
 * Comics (Marvel and DC)
 * Improving my own thoughts and ideas
 * Helping and understanding others, especially those who might be overlooked by society for whatever reason
