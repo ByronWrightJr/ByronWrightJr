@@ -1,6 +1,6 @@
 ## Hey there, my name is Byron. 👋🏽
 
-I am working on becoming a emergengy room physician b ut I love to build things in my free time. I have so far learned some HTML and CSS from freecodecamp.com and from Harvard University on their CS50 course.
+I am working on getting more into the tech industry by learning coding and other skills. I have so far learned some HTML and CSS from freecodecamp.com and from Harvard University's free online CS50 course. I will continue learning and furthering my education.
 
 ### You can find me here:
 * [My Personal Website](https://byronwrightjr.com) 🕸
