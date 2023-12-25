@@ -1,6 +1,6 @@
 ## Hey there, my name is Byron. 👋🏽
 
-I am working on getting more into the tech industry by learning coding and other skills. I have so far learned some HTML and CSS from freecodecamp.com and from Harvard University's free online CS50 course. I will continue learning and furthering my education.
+I am working on getting more into the tech industry by learning coding and other skills. I have so far learned some HTML and CSS from freecodecamp.com and from Harvard University's free online CS50 course I have learned C and Python. I will continue learning and furthering my education.
 
 ### You can find me here:
 * [Threads](https://www.threads.net/@byroncwrightjr) 🧵
