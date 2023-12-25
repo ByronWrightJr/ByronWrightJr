@@ -3,8 +3,7 @@
 I am working on getting more into the tech industry by learning coding and other skills. I have so far learned some HTML and CSS from freecodecamp.com and from Harvard University's free online CS50 course I have learned C and Python. I will continue learning and furthering my education.
 
 ### You can find me here:
-* [Threads](https://www.threads.net/@byroncwrightjr) 🧵
-* [Instagram](https://www.instagram.com/byroncwrightjr) 📸
+
 * [My Personal Website](https://byronwrightjr.com) 🕸
 * [YouTube](https://www.youtube.com/channel/UCH_dEUH3rm29_7laJAGRS6w) 🎥
 * [Blog](https://medium.com/@byronwrightjr) 📝
