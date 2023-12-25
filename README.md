@@ -14,7 +14,7 @@ I am working on getting more into the tech industry by learning coding and other
 * Video Games
 * Anything having to do with technology
 * Science (Any science really, including medical and astronomy)
-* Comics (Marvel,DC and Manga)
+* Comics (Marvel, DC and Manga)
 * Improving my own thoughts and ideas
 * Helping and understanding others, especially those who might be overlooked by society for whatever reason
 
