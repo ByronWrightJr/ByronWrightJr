@@ -5,8 +5,6 @@ I am working on getting more into the tech industry by learning coding and other
 
 * [My Personal Website](https://byronwrightjr.com) 🕸
 * [YouTube](https://www.youtube.com/channel/UCH_dEUH3rm29_7laJAGRS6w) 🎥
-* [Blog](https://medium.com/@byronwrightjr) 📝
-* [Podcast](https://open.spotify.com/show/0hVsGy9BZVMe8vGY0jqG4g?si=da48e152627f47ae) 🎤
 
 ### Likes/Interests/Hobbies:
 * Video Games
