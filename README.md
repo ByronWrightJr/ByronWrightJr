@@ -1,16 +1,13 @@
 ## Hey there, my name is Byron. 👋🏽
 
 I am working on getting more into the tech industry by learning coding and other skills. I have so far learned some HTML and CSS from freecodecamp.com and from Harvard University's free online CS50 course I have learned C and Python. I will continue learning and furthering my education. My ultimate goal is to be a software engineer someday. I also like gaming, reading, writing, photography, watching and playing sports, listening to and making music as well as a bunch of other things that would be too much to list here.
-### You can find me here:
-
-* [YouTube](https://www.youtube.com/channel/UCH_dEUH3rm29_7laJAGRS6w) 🎥
 
 ### Likes/Interests/Hobbies:
 * Video Games
 * Anything having to do with technology
-* Science (Any science really, including medical and astronomy)
+* Science (Any science really, including medicine and astronomy)
 * Comics (Marvel, DC and Manga)
-* Improving my own thoughts and ideas
+* Improving my thoughts and ideas
 * Helping and understanding others, especially those who might be overlooked by society for whatever reason
 
 ### Random fact about me:
