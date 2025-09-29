@@ -4,6 +4,7 @@ With over 6 years of experience in the technical field, I am now working on gett
 I am going to continue learning and furthering my education by using all the outlets there are that are available on the internet. It always amazes me what I can learn on the computer with some dedication. My ultimate goal is to be a well-rounded individual who can do a lot of creative things and enjoy doing them.
 
 ### Likes/Interests/Hobbies:
+* 🎨 Art
 * 🕹️ Video Games
 * 📸 Photography
 * 🎵 Making and listening to music
@@ -11,7 +12,7 @@ I am going to continue learning and furthering my education by using all the out
 * 🚗 Adventures and Traveling
 * 📱 Anything having to do with technology
 * 👨🏽‍🔬 Science (Any science really, including medicine and astronomy)
-* 💥 Comics (Marvel, DC and Manga)
+* 💥 Comics (Marvel, DC, and Manga)
 * 📚 Reading
 * ⛑️ Helping and understanding others, especially those who might be overlooked by society for whatever reason
 
