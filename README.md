@@ -1,6 +1,6 @@
 ## Hey there, my name is Byron. 👋🏽
 
-With over 6 years of experience in the technical field, I am now working on getting even more into the tech industry by learning coding and other skills on a computer. As of right now, I am learning HTML, CSS, and JavaScript from freecodecamp.com and W3Schools. From Harvard University's free online CS50 course, I am learning C and Python. I am simultaneously learning about game development for 2D games using the Unity Engine because I have always loved games and I think it would be cool to make video games.
+With over 6 years of experience in the technical field, I am now working on getting even more into the tech industry by learning coding and other skills on a computer. As of right now, I am learning HTML, CSS, and JavaScript from freecodecamp.com and W3Schools. From Harvard University's free online CS50 course, I am learning C and Python. I am simultaneously learning about digital art and using Procreate because I have always loved art, and I think it would be cool to make my own characters, comic books, and a cartoon or video game one day.
 I am going to continue learning and furthering my education by using all the outlets there are that are available on the internet. It always amazes me what I can learn on the computer with some dedication. My ultimate goal is to be a well-rounded individual who can do a lot of creative things and enjoy doing them.
 
 ### Likes/Interests/Hobbies:
